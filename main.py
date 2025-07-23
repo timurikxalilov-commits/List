@@ -9,7 +9,7 @@ import random
 import asyncio
 
 # 🔧 Конфигурация
-TOKEN = "7436013012:AAG-zReSmx4agXxrjUPpYXF_hCFA_JlsPOw"
+TOKEN = "7436013012:AAGDYHV2P8mDuruQIBQCRCqmxC-864bZr3Q"
 MASTER_CHAT_ID = 5225197085
 
 # 📜 Цитаты от чайного пьяницы
