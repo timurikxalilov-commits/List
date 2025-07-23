@@ -9,7 +9,8 @@ import random
 import asyncio
 
 # 🔧 Конфигурация
-TOKEN = "7436013012:AAGDYHV2P8mDuruQIBQCRCqmxC-864bZr3Q"
+import os
+TOKEN = os.getenv("TELEGRAM_TOKEN")
 MASTER_CHAT_ID = 5225197085
 
 # 📜 Цитаты от чайного пьяницы
